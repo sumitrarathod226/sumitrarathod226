@@ -1,4 +1,6 @@
 ## Hi there 👋
+i am the sumi
+prescriptive
 
 <!--
 **sumitrarathod226/sumitrarathod226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
